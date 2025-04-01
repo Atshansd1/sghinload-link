@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadDescription</key>
+            <string>Configures SghinLoad Remote Installation</string>
+            <key>PayloadDisplayName</key>
+            <string>SghinLoad Remote Installation</string>
+            <key>PayloadIdentifier</key>
+            <string>com.sghinload.profile.EDA079B8-C208-43C9-85E8-D9A92ECD7321</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>517B3E46-A61E-4D53-9E25-03340CF036FF</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>FullScreen</key>
+            <true/>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Label</key>
+            <string>SghinLoad</string>
+            <key>URL</key>
+            <string>https://example.com/remote-install?code=o6sKNBvQ</string>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>SghinLoad Remote Installation Profile</string>
+    <key>PayloadDisplayName</key>
+    <string>SghinLoad Remote Installation</string>
+    <key>PayloadIdentifier</key>
+    <string>com.sghinload.57F7AFB9-58C9-4A2A-BD4F-76BAD65B0600</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>E676EF98-7051-416B-ADC6-801EA707688C</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
